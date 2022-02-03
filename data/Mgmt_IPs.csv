@@ -1,0 +1,11 @@
+Device ID,Mgmt_Lo,Platform,Name,DNS Name
+SWEx-DC1-core1,10.1.1.100,ios,swex-dc1-acc1,swex-dc7-core1.acme.com
+SWEx-DC1-core2,10.1.1.101,ios,swex-dc1-acc2,swex-dc7-core2.acme.com
+SWEx-DC1-acc7,10.1.1.106,ios,swex-dc1-acc7,swex-dc7-acc7.acme.com
+SWEx-DC2-core1,10.1.1.102,ios,swex-dc1-acc1,swex-dc8-core1.acme.com
+SWEx-DC2-core2,10.1.1.103,ios,swex-dc1-acc2,swex-dc8-core2.acme.com
+SWEx-DC2-acc7,10.1.1.107,ios,swex-dc1-acc7,swex-dc8-acc7.acme.com
+SWEr-DC1-acc1,10.1.1.246,ios,swer-dc1-acc1,swer-dc7-acc1.acme.com
+SWEr-DC1-acc2,10.1.1.245,ios,swer-dc1-acc2,swer-dc7-acc2.acme.com
+SWEr-DC2-acc1,10.1.1.244,ios,swer-dc2-acc1,swer-dc8-acc1.acme.com
+SWEr-DC2-acc2,10.1.1.243,ios,swer-dc2-acc2,swer-dc8-acc2.acme.com
